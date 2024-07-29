@@ -9,4 +9,4 @@ pandas==1.3.0
 scikit-learn==0.24.2
 scipy==1.7.0
 joblib==1.0.1
-thop==0.0.31.post2005241907  # Assuming you have a specific version you rely on, or remove version if latest is fine
+
