@@ -1,6 +1,6 @@
 # kiwifruit-diseases-classifier
 ## Requirement
-Python 3.9.16
+Python 3.9.16  
 pip install -r requirements.txt
 
 ## 1. `Model_Comparisons`
