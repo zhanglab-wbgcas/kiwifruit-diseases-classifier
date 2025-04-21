@@ -19,8 +19,8 @@ Provides an evaluation using different metrics to assess multiple models and tra
 Contains experiments where the ShuffleNet_V2_x0_5 model is trained using different optimization strategies to find the most effective method for improving model convergence and accuracy.
 
 
-# Datasets Link
-You can obtain the data by accessing this link.
+# Datasets
+You can obtain the data by accessing this link 
 https://drive.google.com/file/d/1UnlQyONWdUQhtGmygGwvw2TxTLDQuXN7/view?usp=drive_link
 
 Please refer to individual directories for more detailed documentation.
